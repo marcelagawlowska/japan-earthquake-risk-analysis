@@ -80,5 +80,7 @@ After a run, the project creates:
 ## Current limits
 
 -The score is not exact.
+
 -The grid only shows the area roughly.
+
 -Only compare scores from the same data and the same settings.
