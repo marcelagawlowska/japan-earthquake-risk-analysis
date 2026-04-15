@@ -79,6 +79,6 @@ After a run, the project creates:
 
 ## Current limits
 
-- The score is heuristic.
-- Grid cells are only a rough spatial approximation.
-- Scores should be compared only inside the same dataset and settings.
+-The score is not exact.
+-The grid only shows the area roughly.
+-Only compare scores from the same data and the same settings.
