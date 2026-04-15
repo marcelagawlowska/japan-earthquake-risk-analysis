@@ -1,0 +1,8 @@
+.venv/
+.idea/
+outputs/
+__pycache__/
+*.pyc
+tests/.tmp/
+earthquake_data/*
+!earthquake_data/japan_2000_2023_query.csv
