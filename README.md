@@ -1,6 +1,8 @@
 # Japan Earthquake Risk Analysis
 
-This project started as a simple exploratory script and was later cleaned up into a small Python pipeline. It uses historical earthquake records for Japan and produces a relative risk score for geographic grid cells.
+Python analysis of historical earthquake data in Japan with grid-based risk scoring, reports, and simple charts.
+
+This project started as a simple exploratory script and was later cleaned up into a small Python pipeline. It uses historical earthquake records for Japan and compares seismic activity across geographic grid cells.
 
 ## What this project is
 
